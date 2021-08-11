@@ -1,7 +1,3 @@
-/////////////////////////////////////////// OK
-// Function MultiplyTable //
-////////////////////////////
-
 function multiplyTable(size) {
     // Hello, like the first step of the exercise i did a 10x10 table by default.
     if(size === undefined){  
