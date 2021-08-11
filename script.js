@@ -13,4 +13,3 @@ function multiplyTable(size) {
     }
     console.table(vertical)
 }
-/////////////////////////////////////////
